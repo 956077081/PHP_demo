@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <library>
+        <book> 
+            <title> 格林童话</title>
+            <content type='treat'>故事</content>
+            <price>50</price>
+        </book>
+        <book>
+            <title>绿野仙踪</title>
+            <content type='story'>稻草人</content>
+            <price>25</price>
+        </book>
+        <book>
+            <title>一千零一夜</title>
+            <content type='error'>没看过</content>
+            <price>56</price>
+            <page>
+                <cost>1</cost>
+                <cost>2</cost>
+                <cost>3</cost>
+            </page>
+                                
+        </book>
+    </library>
+</root>
